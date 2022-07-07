@@ -1,0 +1,19 @@
+Variables e indicadores
+
+Operacionalizacion: Es el proceso de pasar de lo abstracto a lo concreto
+Instrumentacion: La asignacion de valores que representan propiedades
+Variables son caracteristicas o propiedades del fenomeno
+INdicadores: Constituyen los elementos mas concretos de una variable
+
+¿Que es una variable estaditica?
+DOn numeros que miden una caracteristica de una variable
+
+Escalas de Medicion
+
+Escala Nominal: 
+
+
+variables independiente --> modelo lineal
+variables dependientes --> modelo espacial
+
+ 
